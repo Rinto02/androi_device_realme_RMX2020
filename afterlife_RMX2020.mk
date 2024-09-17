@@ -36,6 +36,6 @@ TARGET_SUPPORTS_QUICK_TAP := false
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE=$(PRODUCT_SYSTEM_DEVICE) \
     TARGET_PRODUCT=$(PRODUCT_SYSTEM_NAME) \
-    ro.afterlife.maintainer=Rinto"
+    ro.afterlife.maintainer="Rinto"
 
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
